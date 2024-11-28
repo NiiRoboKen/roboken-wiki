@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "b257a3acb74a3836",
+        "id": "a09efe424ea285df",
         "type": "tabs",
         "children": [
           {
-            "id": "3d7b185a9c1208f5",
+            "id": "359916e2495353f8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新規タブ"
+              "title": "README"
             }
           }
         ]
@@ -169,12 +173,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3d7b185a9c1208f5",
+  "active": "359916e2495353f8",
   "lastOpenFiles": [
-    "wiki/circuit-and-control-team/home.md",
-    "README.md",
-    "wiki/circuit-and-control-team/syllabus.md",
     "wiki/notes-on-writing-wiki.md",
+    "wiki/circuit-and-control-team/home.md",
+    "wiki/circuit-and-control-team/syllabus.md",
+    "README.md",
     "circuit-and-control-team/notes-on-writing-wiki.md",
     "circuit-and-control-team",
     "wiki/設計班",

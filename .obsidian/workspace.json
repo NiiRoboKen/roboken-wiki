@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/notes-on-writing-wiki.md",
+                "file": "docs/design-team/syllabus.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "notes-on-writing-wiki"
+              "title": "syllabus"
             }
           },
           {
@@ -49,8 +49,7 @@
               "title": "syllabus"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -202,14 +201,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dbcc5b6efb3d5694",
+  "active": "c81e10363baca442",
   "lastOpenFiles": [
     "docs/design-team/home.md",
     "docs/design-team/syllabus.md",
-    "docs/circuit-and-control-team/home.md",
-    "docs/design-team",
     "docs/notes-on-writing-wiki.md",
     "README.md",
+    "docs/circuit-and-control-team/home.md",
+    "docs/design-team",
     "docs/circuit-and-control-team/kicad-manual.md",
     "docs/circuit-and-control-team/syllabus.md",
     "circuit-and-control-team/notes-on-writing-wiki.md",

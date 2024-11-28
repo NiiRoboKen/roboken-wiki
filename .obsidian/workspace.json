@@ -4,39 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "9ba8b3676ea79403",
+        "id": "b257a3acb74a3836",
         "type": "tabs",
         "children": [
           {
-            "id": "82b3d44a9e0a289c",
+            "id": "3d7b185a9c1208f5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "wiki/circuit-and-control-team/home.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "home"
-            }
-          },
-          {
-            "id": "2ca748c744c321c1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "wiki/circuit-and-control-team/syllabus.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "syllabus"
+              "title": "新規タブ"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -159,13 +140,23 @@
               "icon": "lucide-list",
               "title": "syllabusのアウトライン"
             }
+          },
+          {
+            "id": "ee2432ddd1a2326e",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -178,11 +169,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cf03c896b5b4b475",
+  "active": "3d7b185a9c1208f5",
   "lastOpenFiles": [
     "wiki/circuit-and-control-team/home.md",
-    "wiki/circuit-and-control-team/syllabus.md",
     "README.md",
+    "wiki/circuit-and-control-team/syllabus.md",
     "wiki/notes-on-writing-wiki.md",
     "circuit-and-control-team/notes-on-writing-wiki.md",
     "circuit-and-control-team",
